@@ -1,2 +1,3 @@
 # hello-world
-Life
+Jake's code
+just here to learn some code :)
